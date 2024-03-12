@@ -1,0 +1,12 @@
+.bord
+{
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    margin-left: 35%;
+    margin-top: 10%;
+}
+.marg{
+    margin-top: 10%;
+}
